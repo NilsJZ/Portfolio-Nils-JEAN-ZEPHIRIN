@@ -1,4 +1,4 @@
-# Nils Jean-Zéphirin – Data & Business Intelligence Portfolio
+# Nils Jean-Zephirin – Data & Business Intelligence Portfolio
 
 This repository contains my personal portfolio website showcasing my academic and personal projects in Data Analytics, Business Intelligence and Software Development.
 
